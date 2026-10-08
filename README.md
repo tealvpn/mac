@@ -4,7 +4,7 @@ Teal VPN is a private VPN that is built to connect on networks that block VPNs. 
 day with no card and no ads. Teal Pro is unlimited and opens every location.
 
 This page hosts the **direct download** of the Teal VPN app for Mac (a `.dmg` disk image), for macOS 14 or newer.
-The app is signed and notarised by **FXOLIO LLC** (Apple Developer ID). This repository holds no source code, only
+The app is signed with our Apple Developer ID and notarised by Apple. This repository holds no source code, only
 the releases.
 
 ## Screenshots
