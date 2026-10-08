@@ -1,44 +1,43 @@
-# Teal VPN for Mac
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tealvpn/.github/main/profile/banner.png" alt="Teal VPN" width="100%">
+</p>
 
-Teal VPN is a private VPN that is built to connect on networks that block VPNs. Teal Free gives you 500 MB every
-day with no card and no ads. Teal Pro is unlimited and opens every location.
+<h1 align="center">Teal VPN for Mac</h1>
+<p align="center">macOS 13.3 Ventura or newer, Apple silicon and Intel.</p>
 
-This page hosts the **direct download** of the Teal VPN app for Mac (a `.dmg` disk image), for macOS 14 or newer.
-The app is signed with our Apple Developer ID and notarised by Apple. This repository holds no source code, only
-the releases.
+<p align="center">
+  <a href="https://github.com/tealvpn/mac/releases/latest/download/TealVPN.dmg"><img src="https://raw.githubusercontent.com/tealvpn/.github/main/profile/btn-mac.png" alt="Download for Mac" height="56"></a>
+</p>
+<p align="center"><sub>One download for every Mac. Signed with our Apple Developer ID and notarised by Apple.</sub></p>
 
-## Screenshots
-
-<p><img src="screenshots/connect.webp" alt="Connected" width="420"> <img src="screenshots/locations.webp" alt="Locations" width="420"> <img src="screenshots/menu-bar.webp" alt="Menu bar" width="420"></p>
-
-## Download
-
-**[Download the latest Teal VPN for Mac](https://github.com/tealvpn/mac/releases/latest/download/TealVPN.dmg)**
-
-Every version is on the [Releases](https://github.com/tealvpn/mac/releases) page.
+<p align="center">
+  <img src="screenshots/connect.webp" alt="Connected" width="300">
+  <img src="screenshots/locations.webp" alt="Locations" width="300">
+  <img src="screenshots/menu-bar.webp" alt="Menu bar" width="300">
+</p>
 
 ## Install
 
 1. Open the downloaded `TealVPN.dmg`.
 2. Drag **Teal VPN** to **Applications**, then open it from Applications.
-3. Sign in and press **Connect**. The first time, macOS asks you to allow the Teal VPN system extension and the VPN
-   configuration; the app shows the exact steps.
+3. Sign in and click **Connect**. The first time, macOS asks you to allow the VPN; the app shows the exact steps.
 
-## Check the file (SHA-256)
+## Check the file
 
-Each release lists the file's SHA-256 and carries a `TealVPN.dmg.sha256` file. Compare it with your download:
+Each release lists the file's SHA-256 and carries a `TealVPN.dmg.sha256` file:
 
-- Mac: `shasum -a 256 -c TealVPN.dmg.sha256`
-- Linux: `sha256sum -c TealVPN.dmg.sha256`
+```
+shasum -a 256 -c TealVPN.dmg.sha256
+```
 
-macOS also checks the Developer ID signature and the notarisation before the app opens. The app updates itself and
-checks the SHA-256 and the signature before installing an update.
+macOS also checks the signature and the notarisation before the app opens.
+
+## Updates
+
+The app updates itself and checks the signature and the SHA-256 before installing an update.
 
 ## Official links
 
-- Website: https://tealvpn.com
-- Mac: https://tealvpn.com/mac
-- Your account: https://account.tealvpn.com
-- Help: support@tealvpn.com
+[tealvpn.com](https://tealvpn.com/mac) · [Your account](https://account.tealvpn.com) · [All Teal VPN downloads](https://github.com/tealvpn) · support@tealvpn.com
 
-Download Teal VPN only from tealvpn.com or this page.
+Download Teal VPN only from tealvpn.com, Google Play or this GitHub organization. This repository holds no source code, only the releases.
