@@ -7,6 +7,10 @@ This page hosts the **direct download** of the Teal VPN app for Mac (a `.dmg` di
 The app is signed and notarised by **FXOLIO LLC** (Apple Developer ID). This repository holds no source code, only
 the releases.
 
+## Screenshots
+
+<p><img src="screenshots/connect.webp" alt="Connected" width="420"> <img src="screenshots/locations.webp" alt="Locations" width="420"> <img src="screenshots/menu-bar.webp" alt="Menu bar" width="420"></p>
+
 ## Download
 
 **[Download the latest Teal VPN for Mac](https://github.com/tealvpn/mac/releases/latest/download/TealVPN.dmg)**
